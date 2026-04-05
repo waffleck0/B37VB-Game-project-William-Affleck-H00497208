@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Card War Game</h1>
+<h1>War Card Game</h1>
 
 <h2>Overview</h2>
 <p>
@@ -72,8 +72,8 @@
 <h2>How to Compile and Run</h2>
 
 <h3>Using GCC</h3>
-<pre><code>gcc CardWarGame.c -o CardWarGame
-./CardWarGame
+<pre><code>gcc WarCardGame.c -o WarCardGame
+./WarCardGame
 </code></pre>
 
 <h3>Using VS Code</h3>
@@ -86,7 +86,7 @@
 
 <h2>File Structure</h2>
 <pre><code>/
-│── CardWarGame.c
+│── WarCardGame.c
 │── README.md
 │── REPORT.pdf
 │── video.mp4
