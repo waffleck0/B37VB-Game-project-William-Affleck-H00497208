@@ -86,7 +86,7 @@
 
 <h2>Gameplay Video</h2>
 <p>
-    <a href="">Click here to watch the gameplay video</a>
+    <a href="https://github.com/waffleck0/B37VB-Game-project-William-Affleck-H00497208/releases/tag/v1.0">Click here to watch the gameplay video</a>
 </p>
 
 <h2>File Structure</h2>
