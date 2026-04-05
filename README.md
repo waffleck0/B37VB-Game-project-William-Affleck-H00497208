@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>War Card Game</h1>
+<h1>Card War Game</h1>
 
 <h2>Overview</h2>
 <p>
@@ -72,8 +72,8 @@
 <h2>How to Compile and Run</h2>
 
 <h3>Using GCC</h3>
-<pre><code>gcc WarCardGame.c -o war
-./war
+<pre><code>gcc CardWarGame.c -o CardWarGame
+./CardWarGame
 </code></pre>
 
 <h3>Using VS Code</h3>
@@ -86,7 +86,7 @@
 
 <h2>File Structure</h2>
 <pre><code>/War-Card-Game
-│── war.c
+│── CardWarGame.c
 │── README.md
 │── REPORT.pdf
 │── video.mp4
@@ -98,6 +98,7 @@
     <li>Animated card movement</li>
     <li>Sound effects</li>
     <li>A menu system</li>
+    <li>Add symbols for the spaces, hearts etc</li>
 </ul>
 
 </body>
