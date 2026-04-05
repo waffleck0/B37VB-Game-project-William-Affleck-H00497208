@@ -85,7 +85,7 @@
 </ol>
 
 <h2>File Structure</h2>
-<pre><code>/War-Card-Game
+<pre><code>/
 │── CardWarGame.c
 │── README.md
 │── REPORT.pdf
