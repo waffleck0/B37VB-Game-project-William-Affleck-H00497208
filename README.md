@@ -84,6 +84,11 @@
     <li>Run the program.</li>
 </ol>
 
+<h2>Gameplay Video</h2>
+<p>
+    <a href="">Click here to watch the gameplay video</a>
+</p>
+
 <h2>File Structure</h2>
 <pre><code>/
 │── WarCardGame.c
